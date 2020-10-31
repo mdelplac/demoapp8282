@@ -9,7 +9,7 @@
 <body>
     <form id="form1" runat="server">
         <div>
-            Coucou a tous !!
+            Coucou a tous les chats !! Miaou :=)
         </div>
     </form>
 </body>
